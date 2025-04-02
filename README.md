@@ -4,9 +4,13 @@ A well-structured collection of Python notes covering fundamental to advanced co
 
 📌 Features:
 ✔️ Clear and concise explanations
+
 ✔️ Code snippets for easy understanding
+
 ✔️ Covers core Python concepts & advanced topics
+
 ✔️ Regular updates with new content
+
 ✔️ Beginner-friendly yet useful for professionals
 
 Stay ahead in Python development with these handy notes! 💡🔥
